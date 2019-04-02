@@ -1,25 +1,26 @@
 {
-  "name": "video-maker",
-  "version": "1.0.0",
-  "description": "Projeto open source para fazer videos automatizados",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rafaelzorn/video-maker.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/rafaelzorn/video-maker/issues"
-  },
-  "homepage": "https://github.com/rafaelzorn/video-maker#readme",
-  "dependencies": {
-    "algorithmia": "^0.3.10",
-    "readline-sync": "^1.4.9",
-    "sbd": "^1.0.14",
-    "watson-developer-cloud": "^3.18.2"
-  }
+    "name": "video-maker",
+    "version": "1.0.0",
+    "description": "Projeto open source para fazer videos automatizados",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/rafaelzorn/video-maker.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/rafaelzorn/video-maker/issues"
+    },
+    "homepage": "https://github.com/rafaelzorn/video-maker#readme",
+    "dependencies": {
+        "algorithmia": "^0.3.10",
+        "googleapis": "^39.1.0",
+        "readline-sync": "^1.4.9",
+        "sbd": "^1.0.14",
+        "watson-developer-cloud": "^3.18.2"
+    }
 }
