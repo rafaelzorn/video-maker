@@ -44,12 +44,12 @@ File: `google-youtube.json`
 {
   {
   "web": {
-    "client_id": "590190099631-vq9q2fb6282sketu8vbmo396c7sa3pku.apps.googleusercontent.com",
-    "project_id": "video-maker-236400",
+    "client_id": "522694492539-vq9q2fbs282skets8vbdo396c7sa3pku.apps.googleusercontent.com",
+    "project_id": "video-maker-132405",
     "auth_uri": "https://accounts.google.com/o/oauth2/auth",
     "token_uri": "https://oauth2.googleapis.com/token",
     "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-    "client_secret": "H3yDAvDjLl7pb7ND3LXNuUnr",
+    "client_secret": "I5yDAeDjAl8pb7ND3LXNuUnr",
     "redirect_uris": ["http://localhost:3000/oauth2callback"],
     "javascript_origins": ["http://localhost:3000"]
   }
