@@ -24,3 +24,35 @@ File: `watson-nlu.json`
   "url": "https://gateway.watsonplatform.net/natural-language-understanding/api"
 }
 ```
+
+## Custom Search Enginer
+
+File: `google-search.json`
+
+```
+{
+  "apiKey": "AIzaSyB1oSVYd2vcP6VG4DH112wyQIcmYGPJcRo",
+  "searchEngineId": "053315485406428313836:hdtayaxqhpo"
+}
+```
+
+## YouTube
+
+File: `google-youtube.json`
+
+```
+{
+  {
+  "web": {
+    "client_id": "590190099631-vq9q2fb6282sketu8vbmo396c7sa3pku.apps.googleusercontent.com",
+    "project_id": "video-maker-236400",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_secret": "H3yDAvDjLl7pb7ND3LXNuUnr",
+    "redirect_uris": ["http://localhost:3000/oauth2callback"],
+    "javascript_origins": ["http://localhost:3000"]
+  }
+}
+}
+```
