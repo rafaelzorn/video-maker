@@ -15,6 +15,7 @@ Open source project to make automated videos.
 - Express
 - GoogleApis
 - Watson Developer Cloud
+- Other Node libs
 
 ## Credits
 
