@@ -8,7 +8,7 @@
 
 Open source project to make automated videos.
 
-### Used technologies
+## Used technologies
 
 - Node
 - Algorithmia
